@@ -1,0 +1,11 @@
+Seed file: /home/xxm/Desktop/GitHub/FcFuzzer/FcFuzzer/dataset/test.py
+Number of function: 1
+Load hole: 2
+Store hole: 0
+Function call hole: 1
+Average candidate: 2.0
+Enum_time: 1
+Derive_time: 2
+Lines of code: 6
+Number of enumerated program: 2
+Total time: 0:00:00.203281

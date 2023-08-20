@@ -1,1 +1,0 @@
-def identity(*args): return args[0]

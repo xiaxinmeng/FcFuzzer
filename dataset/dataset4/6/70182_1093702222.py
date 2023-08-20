@@ -1,6 +1,0 @@
-def scandir(path):
-    return contextlib.closing(native_scandir(path))
-
-def native_scandir(path):
-    ...
-    yield ...

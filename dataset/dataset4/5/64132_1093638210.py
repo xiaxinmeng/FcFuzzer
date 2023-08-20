@@ -1,3 +1,0 @@
-_sentinel = object
-def round(number, ndigits=_sentinel):
-  if ndigits is _sentinel: ...

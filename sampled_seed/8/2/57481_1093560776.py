@@ -1,3 +1,0 @@
-
-def imap(): pass
-imap()

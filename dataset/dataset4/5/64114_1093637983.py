@@ -1,1 +1,0 @@
-def bit_at(i, n): return (i>>n)&1

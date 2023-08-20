@@ -1,3 +1,0 @@
-def handle_error(prefix):
-    exc_format = ' '.join(traceback.format_exception(*sys.exc_info()))
-    ...

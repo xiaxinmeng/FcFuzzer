@@ -1,6 +1,0 @@
-if name == "posix":
-    def get_shell():
-        ...
-elif name in {"nt", "ce"}:
-    def get_shell():
-        ...

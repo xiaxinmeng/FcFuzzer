@@ -1,1 +1,0 @@
-return str.__str__(self)

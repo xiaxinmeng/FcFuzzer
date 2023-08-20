@@ -1,1 +1,0 @@
-def x(arg): return reduce(sum, [])

@@ -1,4 +1,0 @@
-def rec():
-    rec()
-
-rec()

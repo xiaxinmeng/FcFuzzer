@@ -1,3 +1,0 @@
-def __exit__(*args):
-    with interrupts_deferred_cvar.assign(state):
-        ...

@@ -1,3 +1,0 @@
-_DataType = Union[bytes, IO[Any], Iterable[bytes], str]
-class HTTPConnection:
-    def send(self, data: _DataType) -> None: ...

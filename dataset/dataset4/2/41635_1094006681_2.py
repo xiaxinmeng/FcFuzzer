@@ -1,1 +1,0 @@
-def f(g): return eval('lambda x: g(x)')

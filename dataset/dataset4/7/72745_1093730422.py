@@ -1,2 +1,0 @@
-def SomeError(Exception): 
-    pass 

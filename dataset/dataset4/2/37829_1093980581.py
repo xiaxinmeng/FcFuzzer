@@ -1,1 +1,0 @@
-def F(o): return eval(repr(o))==o
