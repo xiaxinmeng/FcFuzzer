@@ -289,13 +289,14 @@ def trans_program(interpreter,inputfile, enumlist,callname):
 import datetime
 
 
-
-tdir = os.getcwd() + "/dataset"
+#change to the path of seed programs
+tdir = os.getcwd() + "/dataset/test_function"
 # print(tdir)
 
 
 
 interpreter =  os.getcwd() + '/Python3.9.0/python'
+interpreter = "python3.9"
 
 
 
